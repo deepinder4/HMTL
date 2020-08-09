@@ -1,4 +1,4 @@
-# This file contains a number of common German typos:
+# This file contains a number of common German typos: This is my first comment in the First Branch
 andriod->android
 
 # The remainder of this file contains misspellings from
@@ -20,7 +20,7 @@ andriod->android
 # CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
 # CONDITIONS.
 #
-# *1. Definitions*
+# *1. Definitions* and some more Definitions
 #
 #  1. *"Adaptation"* means a work based upon the Work, or upon the Work
 #     and other pre-existing works, such as a translation, adaptation,
