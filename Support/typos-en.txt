@@ -1,4 +1,4 @@
-# This file contains a number of common English typos:
+# This file contains a number of common English typos: Deepinder Branch changes
 andriod->android
 
 # The remainder of this file contains misspellings from
